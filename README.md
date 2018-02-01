@@ -10,3 +10,4 @@ theory and implementations (through numpy, sklearn, matplotlib, etc.) of ML algo
 * [K-means](https://github.com/sulxxy/ML_Algorithms/tree/master/K-means)
 * [Gaussian Process](https://github.com/sulxxy/ML_Algorithms/tree/master/GaussianProcess)
 * [Support Vector Machine](https://github.com/sulxxy/ML_Algorithms/tree/master/SVM)
+* [Perceptron and MLP](https://github.com/sulxxy/ML_Algorithms/tree/master/MLP/)
