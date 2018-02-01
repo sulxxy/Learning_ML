@@ -10,18 +10,20 @@ theory and implementations (through numpy, sklearn, matplotlib, etc.) of ML algo
 ## Linear Models
 * [Linear Discriminent Analysis](https://github.com/sulxxy/ML_Algorithms/tree/master/LDA)
 
-## Mixture Models and EM
-* [K-means](https://github.com/sulxxy/ML_Algorithms/tree/master/K-means)
-
-## Kernel Methods
-* [Gaussian Process](https://github.com/sulxxy/ML_Algorithms/tree/master/GaussianProcess)
-
 ## Sparse Kernel Machine
 * [Support Vector Machine](https://github.com/sulxxy/ML_Algorithms/tree/master/SVM)
-
-## Continuous Latent Variables
-* [Principle Components Analysis](https://github.com/sulxxy/ML_Algorithms/tree/master/PCA)
 
 ## Neural Network
 * [Perceptron and MLP](https://github.com/sulxxy/ML_Algorithms/tree/master/MLP/)
 * [Back Propagation](https://github.com/sulxxy/ML_Algorithms/tree/master/BackProp/)
+
+## Mixture Models and EM
+* [K-means](https://github.com/sulxxy/ML_Algorithms/tree/master/K-means)
+* [EM and Gaussian Mixture Model](https://github.com/sulxxy/ML_Algorithms/tree/master/EM_and_GMM)
+
+## Kernel Methods
+* [Gaussian Process](https://github.com/sulxxy/ML_Algorithms/tree/master/GaussianProcess)
+
+## Continuous Latent Variables
+* [Principle Components Analysis](https://github.com/sulxxy/ML_Algorithms/tree/master/PCA)
+
