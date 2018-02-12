@@ -27,3 +27,5 @@ theory and implementations (through numpy, sklearn, matplotlib, etc.) of ML algo
 ## Continuous Latent Variables
 * [Principle Components Analysis](https://github.com/sulxxy/ML_Algorithms/tree/master/PCA)
 
+## Reinforcement Learning
+* [Evaluation](https://github.com/sulxxy/ML_Algorithms/tree/master/ReinforcementLearning)
