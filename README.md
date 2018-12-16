@@ -1,7 +1,7 @@
-# Learning_ML
-theory and implementations (through numpy, sklearn, matplotlib, etc.) of ML algorithms
+# Learning Machine Learning
+Theory and implementations (with sci-kit, Pytorch, Tensorflow, jupyter lab, etc.) of machine learning and deep learning.
 # Index
-## Basis
+## Basics
 * [Bayes Decision Theory](https://github.com/sulxxy/Learning_ML/tree/master/ML_Algorithms/BayesDecisionTheory)
 * [Maximum Likelihood Estimation](https://github.com/sulxxy/Learning_ML/tree/master/ML_Algorithms/MaximumLikelihoodEstimation)
 * [Bayes Paramter Estimation](https://github.com/sulxxy/Learning_ML/tree/master/ML_Algorithms/BayesParameterEstimation)
@@ -27,5 +27,10 @@ theory and implementations (through numpy, sklearn, matplotlib, etc.) of ML algo
 ## Continuous Latent Variables
 * [Principle Components Analysis](https://github.com/sulxxy/Learning_ML/tree/master/ML_Algorithms/PCA)
 
-## Reinforcement Learning
+
+# Deep Learning
+## [Pytorch](https://github.com/sulxxy/Learning_ML/tree/master/Pytorch/torch_tutorial.ipynb)
+## [Tensorflow](https://github.com/sulxxy/Learning_ML/tree/master/TensorFlow/)
+
+# Reinforcement Learning
 * [Evaluation](https://github.com/sulxxy/Learning_ML/tree/master/ML_Algorithms/ReinforcementLearning)
