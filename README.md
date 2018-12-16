@@ -14,7 +14,7 @@ Theory and implementations (with sci-kit, Pytorch, Tensorflow, jupyter lab, etc.
 - [ ] [Bayes Paramter Estimation](https://github.com/sulxxy/Learning_ML/tree/master/Basics/BayesParameterEstimation)
 - [ ] [Model Selection](https://github.com/sulxxy/Learning_ML/tree/master/Basics/ModelSelection)
 - [ ] [Linear Discriminent Analysis](https://github.com/sulxxy/Learning_ML/tree/master/Basics/LDA)
-- [ ] [Support Vector Machine](https://github.com/sulxxy/Learning_ML/tree/master/Basics/SVM)
+- [x] [Support Vector Machine](https://github.com/sulxxy/Learning_ML/tree/master/Basics/SVM)
 - [ ] [Perceptron and MLP](https://github.com/sulxxy/Learning_ML/tree/master/Basics/MLP/)
 - [ ] [Back Propagation](https://github.com/sulxxy/Learning_ML/tree/master/Basics/BackProp/)
 - [ ] [K-means](https://github.com/sulxxy/Learning_ML/tree/master/Basics/K-means)
