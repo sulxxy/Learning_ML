@@ -50,7 +50,7 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 - [ ] [Recommendation Systems]()
 
 # Research Topics
-I create another [repo](https://github.com/sulxxy/Machine_Learning_Paper_Reviews) for research paper explanations in machine learning area. For convenience, here is a list.
+I create another [repo](https://github.com/sulxxy/Machine_Learning_Paper_Reviews) for research paper explanations in machine learning area. For convenience, here is the paper list.
 1. A. Cutkosky and K. Boahen, “Online Learning Without Prior Information,”Proceedings of MachineLearning Research, vol. 65, pp. 1–35, 2017.
 2. S. Shalev-Shwartzet al., “Online learning and online convex optimization,”Foundations and TrendsR©in Machine Learning, vol. 4, no. 2, pp. 107–194, 2012.
 3. A. Cutkosky and F. Orabona, “Black-Box Reductions for Parameter-free Online Learning in BanachSpaces,” feb 2018.
