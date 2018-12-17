@@ -15,7 +15,7 @@ Theory and implementations (with sci-kit, Pytorch, Tensorflow, jupyter lab, etc.
 - [ ] [Model Selection](https://github.com/sulxxy/Learning_ML/tree/master/Basics/ModelSelection)
 - [ ] [Linear Discriminent Analysis](https://github.com/sulxxy/Learning_ML/tree/master/Basics/LDA)
 - [x] [Support Vector Machine](https://github.com/sulxxy/Learning_ML/tree/master/Basics/SVM)
-- [ ] [Perceptron and MLP](https://github.com/sulxxy/Learning_ML/tree/master/Basics/MLP/)
+- [x] [Perceptron and MLP](https://github.com/sulxxy/Learning_ML/tree/master/Basics/MLP/)
 - [ ] [Back Propagation](https://github.com/sulxxy/Learning_ML/tree/master/Basics/BackProp/)
 - [ ] [K-means](https://github.com/sulxxy/Learning_ML/tree/master/Basics/K-means)
 - [ ] [EM and Gaussian Mixture Model](https://github.com/sulxxy/Learning_ML/tree/master/Basics/EM_and_GMM)
