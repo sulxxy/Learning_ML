@@ -1,7 +1,7 @@
 # Learning Machine Learning
 Theory and implementations (with sci-kit, Pytorch, Tensorflow, jupyter lab, etc.) of machine learning and deep learning.
 # Content
-1. [Basic Machine Learning Theories and Implementations](https://github.com/sulxxy/Learning_ML#basic-theories-and-implementations)
+1. [Basic Theories and Implementations](https://github.com/sulxxy/Learning_ML#basic-theories-and-implementations)
 1. [Deep Learning Frameworks](https://github.com/sulxxy/Learning_ML#deep-learning-frameworks)
 1. [Deep Learning In Practice](https://github.com/sulxxy/Learning_ML#deep-learning-in-practice)
 1. [Reinforcement Learning](https://github.com/sulxxy/Learning_ML#reinforcement-learning)
