@@ -33,6 +33,7 @@ Theory and implementations (with sci-kit, Pytorch, Tensorflow, jupyter lab, etc.
 - [ ] [Convolutional Neural Networks]()
 - [ ] [Recurrent Neural Networks]()
 - [ ] [Autoencoders]()
+- [ ] [Restricted Boltzmann Machines]()
 - [ ] [Residual Networks]()
 - [ ] [Long Short-Term Memory]()
 - [ ] [Generative Adversarial Networks]()
