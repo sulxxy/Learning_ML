@@ -31,11 +31,10 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 
 # Deep Learning In Practice
 - [ ] [Convolutional Neural Networks]()
-- [ ] [Recurrent Neural Networks]()
+- [ ] [Recurrent Neural Networks and Long Short-Term Memory Networks]()
 - [ ] [Autoencoders]()
 - [ ] [Restricted Boltzmann Machines]()
 - [ ] [Residual Networks]()
-- [ ] [Long Short-Term Memory]()
 - [ ] [Generative Adversarial Networks]()
 
 # Reinforcement Learning
