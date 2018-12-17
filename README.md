@@ -27,7 +27,7 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 
 # Deep Learning Frameworks
 - [x] [Pytorch](https://github.com/sulxxy/Learning_ML/tree/master/Frameworks/Pytorch/pytorch_tutorial.ipynb)
-- [ ] [Tensorflow](https://github.com/sulxxy/Learning_ML/tree/master/Frameworks/Tensorflow/)
+- [x] [Tensorflow](https://github.com/sulxxy/Learning_ML/tree/master/Frameworks/Tensorflow/CNN/CNN.ipynb)
 
 # Deep Learning In Practice
 - [ ] [Convolutional Neural Networks]()
