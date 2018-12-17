@@ -1,14 +1,14 @@
 # Learning Machine Learning
-Theory and implementations (with sci-kit, Pytorch, Tensorflow, jupyter lab, etc.) of machine learning and deep learning.
+Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.) of machine learning and deep learning.
 # Content
-1. [Basic Theories and Implementations](https://github.com/sulxxy/Learning_ML#basic-theories-and-implementations)
+1. [Fundamentals](https://github.com/sulxxy/Learning_ML#fundamentals)
 1. [Deep Learning Frameworks](https://github.com/sulxxy/Learning_ML#deep-learning-frameworks)
 1. [Deep Learning In Practice](https://github.com/sulxxy/Learning_ML#deep-learning-in-practice)
 1. [Reinforcement Learning](https://github.com/sulxxy/Learning_ML#reinforcement-learning)
 1. [Applications](https://github.com/sulxxy/Learning_ML#applications)
 1. [Research Topics](https://github.com/sulxxy/Learning_ML#research-topics)
 
-# Basic Theories and Implementations
+# Fundamentals
 - [ ] [Bayes Decision Theory](https://github.com/sulxxy/Learning_ML/tree/master/Basics/BayesDecisionTheory)
 - [ ] [Maximum Likelihood Estimation](https://github.com/sulxxy/Learning_ML/tree/master/Basics/MaximumLikelihoodEstimation)
 - [ ] [Bayes Paramter Estimation](https://github.com/sulxxy/Learning_ML/tree/master/Basics/BayesParameterEstimation)
@@ -16,7 +16,7 @@ Theory and implementations (with sci-kit, Pytorch, Tensorflow, jupyter lab, etc.
 - [ ] [Linear Discriminent Analysis](https://github.com/sulxxy/Learning_ML/tree/master/Basics/LDA)
 - [x] [Support Vector Machine](https://github.com/sulxxy/Learning_ML/tree/master/Basics/SVM)
 - [x] [Perceptron and MLP](https://github.com/sulxxy/Learning_ML/tree/master/Basics/MLP/)
-- [ ] [Back Propagation](https://github.com/sulxxy/Learning_ML/tree/master/Basics/BackProp/)
+- [x] [Back Propagation](https://github.com/sulxxy/Learning_ML/tree/master/Basics/BackProp/)
 - [ ] [K-means](https://github.com/sulxxy/Learning_ML/tree/master/Basics/K-means)
 - [ ] [EM and Gaussian Mixture Model](https://github.com/sulxxy/Learning_ML/tree/master/Basics/EM_and_GMM)
 - [ ] [Gaussian Process](https://github.com/sulxxy/Learning_ML/tree/master/Basics/GaussianProcess)
