@@ -22,6 +22,7 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 - [ ] [Gaussian Process](https://github.com/sulxxy/Learning_ML/tree/master/Basics/GaussianProcess)
 - [ ] [Principle Component Analysis](https://github.com/sulxxy/Learning_ML/tree/master/Basics/PCA)
 - [ ] [Independent Component Analysis](https://github.com/sulxxy/Learning_ML/tree/master/Basics/ICA)
+- [ ] [Regularization]
 
 # Advances
 - [ ] [Sampling](https://github.com/sulxxy/Learning_ML/tree/master/Basics/Sampling)
