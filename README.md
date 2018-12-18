@@ -2,9 +2,9 @@
 Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.) of machine learning and deep learning.
 # Content
 1. [Fundamentals](https://github.com/sulxxy/Learning_ML#fundamentals)
+1. [Advances](https://github.com/sulxxy/Learning_ML#advances)
 1. [Deep Learning Frameworks](https://github.com/sulxxy/Learning_ML#deep-learning-frameworks)
 1. [Deep Learning In Practice](https://github.com/sulxxy/Learning_ML#deep-learning-in-practice)
-1. [Reinforcement Learning](https://github.com/sulxxy/Learning_ML#reinforcement-learning)
 1. [Applications](https://github.com/sulxxy/Learning_ML#applications)
 1. [Research Topics](https://github.com/sulxxy/Learning_ML#research-topics)
 
@@ -22,8 +22,17 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 - [ ] [Gaussian Process](https://github.com/sulxxy/Learning_ML/tree/master/Basics/GaussianProcess)
 - [ ] [Principle Component Analysis](https://github.com/sulxxy/Learning_ML/tree/master/Basics/PCA)
 - [ ] [Independent Component Analysis](https://github.com/sulxxy/Learning_ML/tree/master/Basics/ICA)
-- [ ] [Sampling](https://github.com/sulxxy/Learning_ML/tree/master/Basics/Sampling)
 
+# Advances
+- [ ] [Sampling](https://github.com/sulxxy/Learning_ML/tree/master/Basics/Sampling)
+- [ ] [T-distributed Stochastic Neighbor Embedding (T-SNE)](https://github.com/sulxxy/Learning_ML/tree/master/Advances/TSNE)
+- [ ] [Local Linear Embedding (LLE)]
+- [ ] [Canonical Correlation Analysis (CCA)]
+- [ ] [Hidden Markov Models (HMM)]
+- [ ] [One-class SVMs]
+- [ ] [Relevant Dimensionality Estimates (RDE)]
+- [ ] [Explaining ML]
+- [ ] [Reinforcement Learning](https://github.com/sulxxy/Learning_ML/tree/master/Advances/ReinforcementLearning)
 
 # Deep Learning Frameworks
 - [x] [Pytorch](https://github.com/sulxxy/Learning_ML/tree/master/Frameworks/Pytorch/pytorch_tutorial.ipynb)
@@ -37,8 +46,6 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 - [ ] [Residual Networks]()
 - [ ] [Generative Adversarial Networks]()
 
-# Reinforcement Learning
-- [ ] [Evaluation](https://github.com/sulxxy/Learning_ML/tree/master/ReinforcementLearning)
 
 # Applications
 - [ ] [Natural Language Processing]()
