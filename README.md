@@ -40,8 +40,8 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 - [x] [Tensorflow](https://github.com/sulxxy/Learning_ML/tree/master/Frameworks/Tensorflow/CNN/CNN.ipynb)
 
 # Deep Learning In Practice
-- [ ] [Neural Networks]()
-- [x] [Convolutional Neural Networks]()
+- [ ] [Neural Networks](https://github.com/sulxxy/Learning_ML/tree/master/Practice/NN/NN.ipynb)
+- [x] [Convolutional Neural Networks](https://github.com/sulxxy/Learning_ML/tree/master/Practice/CNN/CNN.ipynb)
 - [ ] [Recurrent Neural Networks and Long Short-Term Memory Networks]()
 - [ ] [Autoencoders]()
 - [ ] [Restricted Boltzmann Machines]()
