@@ -27,12 +27,12 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 # Advances
 - [ ] [Sampling](https://github.com/sulxxy/Learning_ML/tree/master/Basics/Sampling)
 - [ ] [T-distributed Stochastic Neighbor Embedding (T-SNE)](https://github.com/sulxxy/Learning_ML/tree/master/Advances/TSNE)
-- [ ] [Local Linear Embedding (LLE)]
-- [ ] [Canonical Correlation Analysis (CCA)]
-- [ ] [Hidden Markov Models (HMM)]
-- [ ] [One-class SVMs]
-- [ ] [Relevant Dimensionality Estimates (RDE)]
-- [ ] [Explaining ML]
+- [ ] [Local Linear Embedding (LLE)]()
+- [ ] [Canonical Correlation Analysis (CCA)]()
+- [ ] [Hidden Markov Models (HMM)]()
+- [ ] [One-class SVMs]()
+- [ ] [Relevant Dimensionality Estimates (RDE)]()
+- [ ] [Explaining ML]()
 - [ ] [Reinforcement Learning](https://github.com/sulxxy/Learning_ML/tree/master/Advances/ReinforcementLearning)
 
 # Deep Learning Frameworks
@@ -40,7 +40,8 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 - [x] [Tensorflow](https://github.com/sulxxy/Learning_ML/tree/master/Frameworks/Tensorflow/CNN/CNN.ipynb)
 
 # Deep Learning In Practice
-- [ ] [Convolutional Neural Networks]()
+- [ ] [Neural Networks]()
+- [x] [Convolutional Neural Networks]()
 - [ ] [Recurrent Neural Networks and Long Short-Term Memory Networks]()
 - [ ] [Autoencoders]()
 - [ ] [Restricted Boltzmann Machines]()
