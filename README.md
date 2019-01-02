@@ -1,5 +1,5 @@
 # Learning Machine Learning
-Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.) of machine learning and deep learning.
+Theory, practice and research in machine learning and deep learning.
 # Content
 1. [Fundamentals](https://github.com/sulxxy/Learning_ML#fundamentals)
 1. [Advances](https://github.com/sulxxy/Learning_ML#advances)
@@ -13,8 +13,10 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 - [ ] [Maximum Likelihood Estimation](https://github.com/sulxxy/Learning_ML/tree/master/Basics/MaximumLikelihoodEstimation)
 - [ ] [Bayes Paramter Estimation](https://github.com/sulxxy/Learning_ML/tree/master/Basics/BayesParameterEstimation)
 - [ ] [Model Selection](https://github.com/sulxxy/Learning_ML/tree/master/Basics/ModelSelection)
-- [ ] [Linear Discriminent Analysis](https://github.com/sulxxy/Learning_ML/tree/master/Basics/LDA)
-- [x] [Support Vector Machine](https://github.com/sulxxy/Learning_ML/tree/master/Basics/SVM)
+- [ ] [Linear Discriminent Analysis (LDA)](https://github.com/sulxxy/Learning_ML/tree/master/Basics/LDA)
+- [ ] [Principle Component Analysis (PCA)](https://github.com/sulxxy/Learning_ML/tree/master/Basics/PCA)
+- [ ] [Independent Component Analysis (ICA)](https://github.com/sulxxy/Learning_ML/tree/master/Basics/ICA)
+- [x] [Support Vector Machines (SVM)](https://github.com/sulxxy/Learning_ML/tree/master/Basics/SVM)
 - [x] [Perceptron and MLP](https://github.com/sulxxy/Learning_ML/tree/master/Basics/MLP/)
 - [x] [Back Propagation](https://github.com/sulxxy/Learning_ML/tree/master/Basics/BackProp/)
 - [ ] [Decision Tree]()
@@ -27,7 +29,8 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 - [ ] [Normalization]()
 
 # Advances
-- [ ] [Sampling](https://github.com/sulxxy/Learning_ML/tree/master/Basics/Sampling)
+- [ ] [Gaussian Process](https://github.com/sulxxy/Learning_ML/tree/master/Basics/GaussianProcess)
+- [ ] [EM and Gaussian Mixture Model (GMM)](https://github.com/sulxxy/Learning_ML/tree/master/Basics/EM_and_GMM)
 - [ ] [T-distributed Stochastic Neighbor Embedding (T-SNE)](https://github.com/sulxxy/Learning_ML/tree/master/Advances/TSNE)
 - [ ] [Local Linear Embedding (LLE)]()
 - [ ] [Canonical Correlation Analysis (CCA)]()
@@ -38,6 +41,7 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 - [ ] [Boosting]()
 - [ ] [Random Forest]()
 - [ ] [Explaining ML]()
+- [ ] [Sampling](https://github.com/sulxxy/Learning_ML/tree/master/Advances/Sampling)
 - [ ] [Reinforcement Learning](https://github.com/sulxxy/Learning_ML/tree/master/Advances/ReinforcementLearning)
 
 # Deep Learning Frameworks
@@ -49,7 +53,7 @@ Theory and implementations (via sci-kit, Pytorch, Tensorflow, jupyter lab, etc.)
 - [x] [Convolutional Neural Networks](https://github.com/sulxxy/Learning_ML/tree/master/Practice/CNN/cnn.ipynb)
 - [ ] [Recurrent Neural Networks and Long Short-Term Memory Networks]()
 - [ ] [Autoencoders]()
-- [ ] [Restricted Boltzmann Machines]()
+- [ ] [Boltzmann Machines]()
 - [ ] [Residual Networks]()
 - [ ] [Generative Adversarial Networks]()
 
